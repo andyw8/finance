@@ -4,7 +4,7 @@ a library for financial modelling in Ruby.
 
 ## INSTALL
 
-    $ sudo gem install finance
+    $ gem install finance
 
 ## IMPORTANT CHANGES
 
