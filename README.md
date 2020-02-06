@@ -107,6 +107,12 @@ You can also increase your payment to a specific amount:
 
     >> extra_payments_2 = 250000.amortize(rate){ -1500 }
 
+## TESTS
+
+To run the test suite:
+
+    rake
+
 ## ABOUT
 
 I started developing `finance` while analyzing mortgages as a personal
